@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "MGCA-SE-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Distinguish exporting records from preserving relationships and usable meaning.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Record dependencies on metadata, formats, identity and retention rules.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Use an authorised test copy to establish whether an exported sample can be interpreted.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "SSE-DS-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Check temporal coverage and usable observations as well as nominal resolution.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Retain access terms, quality flags and processing assumptions with a dataset comparison.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Use representative samples before deciding that a dataset meets an observation requirement.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

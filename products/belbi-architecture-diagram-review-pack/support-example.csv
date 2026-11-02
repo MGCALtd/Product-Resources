@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 State the intended audience and the decision the diagram must support.,not-reviewed,fictional-note-1
+"SYNTHETIC 2 Check system boundaries, relationships and the meaning of the notation.",not-reviewed,fictional-note-2
+SYNTHETIC 3 Keep a drawing clarity finding separate from a claim about the running system.,not-reviewed,fictional-note-3

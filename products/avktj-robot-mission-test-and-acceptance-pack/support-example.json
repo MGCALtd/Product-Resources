@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "CYR-MT-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Keep the mission boundary and test environment explicit before interpreting a result.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Separate the expected behaviour from the observation and the supporting evidence.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Record missing observations as missing rather than converting them into a pass.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

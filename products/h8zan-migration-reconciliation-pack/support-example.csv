@@ -1,0 +1,4 @@
+item,status,evidence_reference
+"SYNTHETIC 1 Check CSV encoding, the identifier column and duplicate identifiers before comparing extracts.",not-reviewed,fictional-note-1
+"SYNTHETIC 2 Agree whether an empty cell, zero and a missing row have different meanings.",not-reviewed,fictional-note-2
+SYNTHETIC 3 Record decimal units and tolerance before interpreting a numerical difference.,not-reviewed,fictional-note-3

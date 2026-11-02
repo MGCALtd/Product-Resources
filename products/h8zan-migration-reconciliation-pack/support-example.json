@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "MGCA-MR-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Check CSV encoding, the identifier column and duplicate identifiers before comparing extracts.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Agree whether an empty cell, zero and a missing row have different meanings.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Record decimal units and tolerance before interpreting a numerical difference.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

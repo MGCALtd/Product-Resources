@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "QCE-ER-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Retain the seed, shot count and source version for a reproducible run.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Distinguish local simulation from execution on a quantum processor.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "A matched output distribution alone does not establish quantum advantage.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

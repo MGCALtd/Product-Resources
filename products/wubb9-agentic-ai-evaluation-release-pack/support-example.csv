@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 Record the candidate identity and the evaluation dataset identity together.,not-reviewed,fictional-note-1
+SYNTHETIC 2 Keep a required scenario with no observation visible as an evidence gap.,not-reviewed,fictional-note-2
+"SYNTHETIC 3 A supplied outcome is a record to review, not proof that the evaluator independently ran the model.",not-reviewed,fictional-note-3

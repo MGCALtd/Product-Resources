@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "MGCA-CT-GC-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Confirm the organisation, project and location assumptions for the review.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Separate a proposed network example from a production foundation design.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Identify the owner and date of each readiness or cost assumption.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

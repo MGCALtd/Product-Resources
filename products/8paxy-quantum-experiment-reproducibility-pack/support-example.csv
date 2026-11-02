@@ -1,0 +1,4 @@
+item,status,evidence_reference
+"SYNTHETIC 1 Retain the seed, shot count and source version for a reproducible run.",not-reviewed,fictional-note-1
+SYNTHETIC 2 Distinguish local simulation from execution on a quantum processor.,not-reviewed,fictional-note-2
+SYNTHETIC 3 A matched output distribution alone does not establish quantum advantage.,not-reviewed,fictional-note-3

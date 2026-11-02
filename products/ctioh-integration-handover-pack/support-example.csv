@@ -1,0 +1,4 @@
+item,status,evidence_reference
+"SYNTHETIC 1 State which integration, version and environments the handover covers.",not-reviewed,fictional-note-1
+SYNTHETIC 2 Make operational ownership and the evidence needed to accept handover explicit.,not-reviewed,fictional-note-2
+SYNTHETIC 3 Keep unresolved dependencies and known exceptions attached to the handover record.,not-reviewed,fictional-note-3

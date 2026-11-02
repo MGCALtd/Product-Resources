@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "SSE-CD-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Check that before and after samples describe aligned locations and comparable inputs.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Retain band definitions, scaling and invalid-data rules with the sample.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "An observed index change is not automatically a verified real-world land-cover change.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

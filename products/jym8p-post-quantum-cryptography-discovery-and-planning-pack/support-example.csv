@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 Inventory where cryptography is used before proposing a migration sequence.,not-reviewed,fictional-note-1
+"SYNTHETIC 2 Record protocol, library, version, owner and dependency evidence.",not-reviewed,fictional-note-2
+SYNTHETIC 3 Use current authoritative standards and an authorised technical review for implementation decisions.,not-reviewed,fictional-note-3

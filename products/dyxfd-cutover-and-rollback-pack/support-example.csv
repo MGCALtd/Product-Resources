@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 Use one agreed time zone and identify the owner of each scheduled action.,not-reviewed,fictional-note-1
+SYNTHETIC 2 Record the rollback decision boundary and its evidence separately from the forward plan.,not-reviewed,fictional-note-2
+SYNTHETIC 3 Keep the last untouched delivery and a separate project working copy.,not-reviewed,fictional-note-3

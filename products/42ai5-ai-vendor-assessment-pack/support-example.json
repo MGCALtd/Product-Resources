@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "MLC-VA-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Distinguish a supplier statement from independently observed evidence.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Record the product edition and evidence date behind a comparison.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Keep contractual questions separate from measured technical behaviour.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

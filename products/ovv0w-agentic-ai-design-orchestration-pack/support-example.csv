@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 Keep a workflow step identifier unique and record its dependencies.,not-reviewed,fictional-note-1
+SYNTHETIC 2 Separate simulated approval behaviour from production permission enforcement.,not-reviewed,fictional-note-2
+SYNTHETIC 3 Use fictional fixtures to reproduce a problem before discussing a real integration.,not-reviewed,fictional-note-3

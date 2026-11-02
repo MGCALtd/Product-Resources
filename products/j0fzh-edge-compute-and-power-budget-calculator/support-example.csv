@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 Check whether an input is power in watts or energy in watt-hours before comparing it.,not-reviewed,fictional-note-1
+"SYNTHETIC 2 Keep duty cycle, operating duration and reserve assumptions visible.",not-reviewed,fictional-note-2
+SYNTHETIC 3 Treat a planning estimate separately from a measurement on the actual hardware.,not-reviewed,fictional-note-3

@@ -1,0 +1,212 @@
+[
+  {
+    "code": "CYR-MT-001",
+    "product": "Robot Mission Test and Acceptance Pack",
+    "folder": "products/avktj-robot-mission-test-and-acceptance-pack",
+    "listing": "https://payhip.com/b/avktJ",
+    "free": true
+  },
+  {
+    "code": "CYR-PB-001",
+    "product": "Edge Compute and Power Budget Calculator",
+    "folder": "products/j0fzh-edge-compute-and-power-budget-calculator",
+    "listing": "https://payhip.com/b/J0fzH",
+    "free": true
+  },
+  {
+    "code": "CYR-RC-001",
+    "product": "Remote-operation and Connectivity Test Pack",
+    "folder": "products/zceko-remote-operation-and-connectivity-test-pack",
+    "listing": "https://payhip.com/b/ZcEkO",
+    "free": true
+  },
+  {
+    "code": "MGCA-AA-DO-001",
+    "product": "Agentic AI Design & Orchestration Pack",
+    "folder": "products/ovv0w-agentic-ai-design-orchestration-pack",
+    "listing": "https://payhip.com/b/oVv0w",
+    "free": true
+  },
+  {
+    "code": "MGCA-AA-ER-001",
+    "product": "Agentic AI Evaluation & Release Pack",
+    "folder": "products/wubb9-agentic-ai-evaluation-release-pack",
+    "listing": "https://payhip.com/b/WUBb9",
+    "free": true
+  },
+  {
+    "code": "MGCA-AA-OC-001",
+    "product": "Agentic AI Operations & Cost Pack",
+    "folder": "products/qkwsn-agentic-ai-operations-cost-pack",
+    "listing": "https://payhip.com/b/QKWsN",
+    "free": true
+  },
+  {
+    "code": "MGCA-AD-001",
+    "product": "MGCA Architecture Options and Decision Pack",
+    "folder": "products/5rcmx-architecture-options-and-decision-pack",
+    "listing": "https://payhip.com/b/5RCmX",
+    "free": true
+  },
+  {
+    "code": "MGCA-CR-001",
+    "product": "MGCA Cutover and Rollback Pack",
+    "folder": "products/dyxfd-cutover-and-rollback-pack",
+    "listing": "https://payhip.com/b/DyXfd",
+    "free": true
+  },
+  {
+    "code": "MGCA-CT-AL-001",
+    "product": "Alibaba Cloud Transformation Pack",
+    "folder": "products/jti35-alibaba-cloud-transformation-pack",
+    "listing": "https://payhip.com/b/Jti35",
+    "free": true
+  },
+  {
+    "code": "MGCA-CT-AWS-001",
+    "product": "AWS Cloud Transformation Pack",
+    "folder": "products/0h1ed-aws-cloud-transformation-pack",
+    "listing": "https://payhip.com/b/0H1eD",
+    "free": true
+  },
+  {
+    "code": "MGCA-CT-AZ-001",
+    "product": "Azure Cloud Transformation Pack",
+    "folder": "products/5h6su-azure-cloud-transformation-pack",
+    "listing": "https://payhip.com/b/5H6Su",
+    "free": true
+  },
+  {
+    "code": "MGCA-CT-GC-001",
+    "product": "Google Cloud Transformation Pack",
+    "folder": "products/0ixo7-google-cloud-transformation-pack",
+    "listing": "https://payhip.com/b/0ixO7",
+    "free": true
+  },
+  {
+    "code": "MGCA-IH-001",
+    "product": "MGCA Integration Handover Pack",
+    "folder": "products/ctioh-integration-handover-pack",
+    "listing": "https://payhip.com/b/ctIoH",
+    "free": true
+  },
+  {
+    "code": "MGCA-MR-001",
+    "product": "MGCA Migration Reconciliation Pack",
+    "folder": "products/h8zan-migration-reconciliation-pack",
+    "listing": "https://payhip.com/b/h8zAN",
+    "free": true
+  },
+  {
+    "code": "MGCA-NF-001",
+    "product": "MGCA Non-functional Requirements Acceptance Pack",
+    "folder": "products/dafol-non-functional-requirements-acceptance-pack",
+    "listing": "https://payhip.com/b/DaFoL",
+    "free": true
+  },
+  {
+    "code": "MGCA-SE-001",
+    "product": "MGCA SaaS Exit and Data Portability Pack",
+    "folder": "products/qbui4-saas-exit-and-data-portability-pack",
+    "listing": "https://payhip.com/b/qbUi4",
+    "free": true
+  },
+  {
+    "code": "MLC-AP-001",
+    "product": "MLCLabs AI Agent Permissions and Control Pack",
+    "folder": "products/1jeki-ai-agent-permissions-and-control-pack",
+    "listing": "https://payhip.com/b/1JEki",
+    "free": true
+  },
+  {
+    "code": "MLC-RD-001",
+    "product": "MLCLabs AI Release Decision Pack",
+    "folder": "products/fkyt9-ai-release-decision-pack",
+    "listing": "https://payhip.com/b/fkYt9",
+    "free": true
+  },
+  {
+    "code": "MLC-RE-001",
+    "product": "MLCLabs RAG Evaluation Pack",
+    "folder": "products/jgzfd-rag-evaluation-pack",
+    "listing": "https://payhip.com/b/JgzFd",
+    "free": true
+  },
+  {
+    "code": "MLC-VA-001",
+    "product": "MLCLabs AI Vendor Assessment Pack",
+    "folder": "products/42ai5-ai-vendor-assessment-pack",
+    "listing": "https://payhip.com/b/42AI5",
+    "free": true
+  },
+  {
+    "code": "MLC-VC-001",
+    "product": "MLCLabs AI Use-case Value and Cost Pack",
+    "folder": "products/qe9pz-ai-use-case-value-and-cost-pack",
+    "listing": "https://payhip.com/b/Qe9Pz",
+    "free": true
+  },
+  {
+    "code": "QCE-ER-001",
+    "product": "Quantum Experiment Reproducibility Pack",
+    "folder": "products/8paxy-quantum-experiment-reproducibility-pack",
+    "listing": "https://payhip.com/b/8pAXy",
+    "free": true
+  },
+  {
+    "code": "QCE-PQ-001",
+    "product": "Post-quantum Cryptography Discovery and Planning Pack",
+    "folder": "products/jym8p-post-quantum-cryptography-discovery-and-planning-pack",
+    "listing": "https://payhip.com/b/JyM8P",
+    "free": true
+  },
+  {
+    "code": "QCE-UA-001",
+    "product": "Quantum Use-case Assessment Pack",
+    "folder": "products/ehboq-quantum-use-case-assessment-pack",
+    "listing": "https://payhip.com/b/eHBOQ",
+    "free": true
+  },
+  {
+    "code": "SAC-DR-001",
+    "product": "Architecture Diagram Review Pack",
+    "folder": "products/belbi-architecture-diagram-review-pack",
+    "listing": "https://payhip.com/b/BElbi",
+    "free": true
+  },
+  {
+    "code": "SAC-PA-001",
+    "product": "Platform Adoption Assessment Pack",
+    "folder": "products/ggdqu-platform-adoption-assessment-pack",
+    "listing": "https://payhip.com/b/gGdqU",
+    "free": true
+  },
+  {
+    "code": "SAC-PE-001",
+    "product": "Architecture Portfolio Evidence Kit",
+    "folder": "products/qxrot-architecture-portfolio-evidence-kit",
+    "listing": "https://payhip.com/b/qxrOT",
+    "free": true
+  },
+  {
+    "code": "SSE-CD-001",
+    "product": "Earth Observation Change-detection Starter Kit",
+    "folder": "products/xjw2y-earth-observation-change-detection-starter-kit",
+    "listing": "https://payhip.com/b/XJw2Y",
+    "free": true
+  },
+  {
+    "code": "SSE-DS-001",
+    "product": "Satellite Data Suitability Assessment Pack",
+    "folder": "products/zm1tj-satellite-data-suitability-assessment-pack",
+    "listing": "https://payhip.com/b/zm1Tj",
+    "free": true
+  },
+  {
+    "code": "SSE-ST-001",
+    "product": "Small Satellite Mission Trade-study Workbook",
+    "folder": "products/vdm35-small-satellite-mission-trade-study-workbook",
+    "listing": "https://payhip.com/b/VDM35",
+    "free": true
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "SAC-PA-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Use an identifiable platform task rather than a broad satisfaction label.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Record user context, friction and observed evidence together.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Keep a task observation distinct from a recommendation to change the platform.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

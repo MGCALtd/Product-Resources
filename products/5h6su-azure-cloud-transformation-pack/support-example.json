@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "MGCA-CT-AZ-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Confirm the tenant, subscription and workload boundary for the review.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Keep identity and policy evidence gaps visible rather than inferring readiness from a score.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Check the currency and monthly basis of the cost inputs before interpreting a payback estimate.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

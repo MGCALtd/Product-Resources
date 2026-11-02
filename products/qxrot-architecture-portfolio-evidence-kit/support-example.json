@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "SAC-PE-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Use genuine work only when you have permission to share it.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Separate your contribution from the wider team outcome.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Replace confidential detail with a clearly labelled, non-sensitive explanation.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

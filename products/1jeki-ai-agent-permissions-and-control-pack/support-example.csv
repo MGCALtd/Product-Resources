@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 Separate a tool being available from an agent being authorised to call it.,not-reviewed,fictional-note-1
+"SYNTHETIC 2 Record the resource scope, approval boundary and intended action together.",not-reviewed,fictional-note-2
+SYNTHETIC 3 A documented permission model does not establish runtime enforcement.,not-reviewed,fictional-note-3

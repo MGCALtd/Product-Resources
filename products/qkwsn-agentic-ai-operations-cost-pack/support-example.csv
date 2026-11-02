@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 State the reporting period and the unit of every cost input.,not-reviewed,fictional-note-1
+SYNTHETIC 2 Check whether a missing usage field has been confused with a genuine zero.,not-reviewed,fictional-note-2
+SYNTHETIC 3 Keep an alert threshold distinct from an operational stop or spending limit.,not-reviewed,fictional-note-3

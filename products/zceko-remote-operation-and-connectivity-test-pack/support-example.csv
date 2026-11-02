@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 Confirm the timestamp boundaries and clock basis used by the trace.,not-reviewed,fictional-note-1
+"SYNTHETIC 2 Distinguish delivery loss, command age and recovery time; they describe different behaviours.",not-reviewed,fictional-note-2
+SYNTHETIC 3 A restored connection does not by itself establish that control authority was restored.,not-reviewed,fictional-note-3

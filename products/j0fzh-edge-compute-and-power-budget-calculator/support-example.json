@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "CYR-PB-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Check whether an input is power in watts or energy in watt-hours before comparing it.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Keep duty cycle, operating duration and reserve assumptions visible.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Treat a planning estimate separately from a measurement on the actual hardware.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

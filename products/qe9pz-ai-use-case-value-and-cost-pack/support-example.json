@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "MLC-VC-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "State volume, time period, currency and units before calculating an estimate.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Do not assume time saved automatically becomes cash saved.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Keep measured inputs separate from assumptions that still need a pilot.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

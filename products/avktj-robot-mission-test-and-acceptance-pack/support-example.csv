@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 Keep the mission boundary and test environment explicit before interpreting a result.,not-reviewed,fictional-note-1
+SYNTHETIC 2 Separate the expected behaviour from the observation and the supporting evidence.,not-reviewed,fictional-note-2
+SYNTHETIC 3 Record missing observations as missing rather than converting them into a pass.,not-reviewed,fictional-note-3

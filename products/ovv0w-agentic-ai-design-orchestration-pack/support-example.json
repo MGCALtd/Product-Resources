@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "MGCA-AA-DO-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Keep a workflow step identifier unique and record its dependencies.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Separate simulated approval behaviour from production permission enforcement.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Use fictional fixtures to reproduce a problem before discussing a real integration.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

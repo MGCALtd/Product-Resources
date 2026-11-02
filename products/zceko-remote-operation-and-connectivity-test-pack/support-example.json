@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "CYR-RC-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Confirm the timestamp boundaries and clock basis used by the trace.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Distinguish delivery loss, command age and recovery time; they describe different behaviours.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "A restored connection does not by itself establish that control authority was restored.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

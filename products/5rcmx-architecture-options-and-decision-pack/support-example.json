@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "MGCA-AD-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Write the decision question before comparing candidate options.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Retain evidence sources and unresolved assumptions for every option.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "A ranking supports a discussion; the accountable owner still records the decision.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

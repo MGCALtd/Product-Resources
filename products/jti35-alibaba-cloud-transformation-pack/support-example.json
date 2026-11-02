@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "MGCA-CT-AL-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Confirm the provider, account scope and intended review boundary.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Label estimated costs with their currency, period and evidence date.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Review identity, networking and operating assumptions before treating a plan as implementable.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

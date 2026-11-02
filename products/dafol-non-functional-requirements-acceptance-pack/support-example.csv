@@ -1,0 +1,4 @@
+item,status,evidence_reference
+"SYNTHETIC 1 Express a quality requirement with its unit, test condition and evidence source.",not-reviewed,fictional-note-1
+SYNTHETIC 2 Keep an untested criterion distinct from a failed criterion.,not-reviewed,fictional-note-2
+SYNTHETIC 3 Retain the environment and workload assumptions used for a measured result.,not-reviewed,fictional-note-3

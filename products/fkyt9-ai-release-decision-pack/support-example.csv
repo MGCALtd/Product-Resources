@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 Record the version under review and who owns the release decision.,not-reviewed,fictional-note-1
+SYNTHETIC 2 Keep critical failures and absent evidence visible in the final review.,not-reviewed,fictional-note-2
+SYNTHETIC 3 Define what new evidence would justify reopening a held decision.,not-reviewed,fictional-note-3

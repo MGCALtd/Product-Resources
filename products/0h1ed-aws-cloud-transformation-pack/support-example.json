@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "MGCA-CT-AWS-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Confirm the account and region assumptions behind the inventory being discussed.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Keep migration readiness evidence separate from a proposal to deploy resources.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Record the workload and cost assumptions behind a wave recommendation.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

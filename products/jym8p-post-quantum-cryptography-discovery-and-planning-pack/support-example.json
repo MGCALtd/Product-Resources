@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "QCE-PQ-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "Inventory where cryptography is used before proposing a migration sequence.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Record protocol, library, version, owner and dependency evidence.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Use current authoritative standards and an authorised technical review for implementation decisions.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

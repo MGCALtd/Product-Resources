@@ -1,0 +1,22 @@
+{
+  "fictional": true,
+  "product_code": "MGCA-AA-OC-001",
+  "purpose": "Free file-format support example only; not a paid product input schema",
+  "observations": [
+    {
+      "item": "State the reporting period and the unit of every cost input.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-1"
+    },
+    {
+      "item": "Check whether a missing usage field has been confused with a genuine zero.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-2"
+    },
+    {
+      "item": "Keep an alert threshold distinct from an operational stop or spending limit.",
+      "status": "not-reviewed",
+      "evidence_reference": "fictional-note-3"
+    }
+  ]
+}

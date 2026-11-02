@@ -1,0 +1,4 @@
+item,status,evidence_reference
+SYNTHETIC 1 Check temporal coverage and usable observations as well as nominal resolution.,not-reviewed,fictional-note-1
+"SYNTHETIC 2 Retain access terms, quality flags and processing assumptions with a dataset comparison.",not-reviewed,fictional-note-2
+SYNTHETIC 3 Use representative samples before deciding that a dataset meets an observation requirement.,not-reviewed,fictional-note-3

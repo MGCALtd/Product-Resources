@@ -1,0 +1,6 @@
+MGCA Product Resources
+Free support resource release 1.0.0
+2 November 2026
+
+Only the free resources in this repository are covered by its MIT licence.
+Purchased product files retain their own supplied licence and terms.
